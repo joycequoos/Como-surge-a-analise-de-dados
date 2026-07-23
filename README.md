@@ -1,3 +1,7 @@
+<div> 
+<p><a href="https://github.com/joycequoos/Analise_de_Dados/blob/main/README.md">Voltar</a></p>
+</div> 
+
 # Como surge a analise de dados?
 
 <img width="770" height="150" alt="image" src="https://github.com/user-attachments/assets/f0496675-b0a0-4f97-aa79-253db9ef70e7" />
